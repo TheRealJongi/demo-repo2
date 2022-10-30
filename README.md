@@ -1,3 +1,3 @@
 # Demo
 
-This is the second demo
+This is the second demo.
